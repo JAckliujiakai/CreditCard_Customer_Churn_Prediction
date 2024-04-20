@@ -1,4 +1,4 @@
-# Bank Customer Churn Prediction
+# Credit Card Customer Churn Prediction
 Full presentation deck can be found here:
 https://docs.google.com/presentation/d/17uR0UIxZplGf0sH06F6QyTlcxeqe1P2V5Cgs9Ka09z8/edit?usp=sharing
 
